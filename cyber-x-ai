@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta http-equiv="refresh" content="0; URL='https://example.com/new-page-name.html'" />
+    </head>
+<body>
+<nav-bar></nav-bar>
+
+<main class="container" style="max-width: 950px; width: 100%; padding-right: var(--pico-spacing); padding-left: var(--pico-spacing);">
+
+</main>
+
+<site-footer></site-footer>    
+</body>
+</html>
