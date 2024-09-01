@@ -37,12 +37,8 @@
         </ul>
       </nav>
     </header>
-
-    <main class="container">
       {% block main %}
-      {% endblock %}
-    </main>
-    
+      {% endblock %}    
     <footer class="container">
       <nav>
         <ul>
